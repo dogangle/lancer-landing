@@ -1,5 +1,5 @@
 <template>
-  <header class="clipped-x-large-forward" style="margin-left:120px;">
+  <header class="clipped-x-large-forward" style="margin-left:120px; margin-top:90px;">
     <div class="title clipped-x-large-forward">
       <img class="logo" src="/icons/company-icon.svg" />
       <div class="title-container">
