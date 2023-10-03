@@ -1,7 +1,7 @@
 <template>
 	<div class="pilot-modal">
-		<div class="pilot-header-container" style="margin-left:120px;">
-			<div class="section-header clipped-medium-backward-bio">
+		<div class="pilot-header-container">
+			<div class="section-header clipped-medium-backward-bio" style="margin-left:120px;">
 				<img src="/icons/pilot-icon.svg" />
 				<h1>{{ pilot.alias }} [{{ pilot.callsign }}]</h1>
 			</div>
