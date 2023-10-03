@@ -95,8 +95,13 @@ export default {
       "missions": [
         {
           "slug": "001",
-          "name": "Bug-Hunt",
+          "name": "A New Dawn",
           "status": "start"
+        },
+        {
+          "slug": "000",
+          "name": "ACT 1",
+          "status": "success"
         },
       ],
       "pilots": [
