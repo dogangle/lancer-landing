@@ -7,7 +7,7 @@
 			</div>
 			<div class="rhombus-back">&nbsp;</div>
 		</div>
-		<div class="pilot">
+		<div class="pilot" style="margin-left:120px;">
 			<Markdown :source="bio" class="markdown" />
 		</div>
 	</div>
