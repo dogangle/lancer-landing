@@ -117,9 +117,9 @@ export default {
           "callsign": "Biqqthiqq",
           "alias": "Bongdem Smith",
           "code": "7cd700cc-c990-48ed-892f-e5468de724c4///NDL-C-EPSILON-FEW//a98c3e28-ad4a-4f89-bcd9-501464e960da",
-          "corpro": "IPS-N",
-          "frame": "Tortuga",
-          "mech": "ARKBARK 2"
+          "corpro": "HORUS",
+          "frame": "Balor",
+          "mech": "ARKBARK 7"
         },
         {
           "callsign": "Moonshine",
