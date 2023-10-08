@@ -135,7 +135,7 @@ export default {
           "code": "4be26ce9-923b-4069-b6c9-76437d4be455///NDL-C-OFFICE-ROYALTY//056940c6-8d55-4190-8e85-57caa043cb1a",
           "corpro": "IPS-N",
           "frame": "Zheng",
-          "mech": "Tear Drop of Morning Dew"
+          "mech": "Teardrop of Morning Dew"
         },
       ],
       "header": {
