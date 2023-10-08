@@ -130,7 +130,7 @@ export default {
           "mech": "Synecdoche"
         },
         {
-          "callsign": "Chewy",
+          "callsign": "Rodeo",
           "alias": "Ernest Bubblebottom",
           "code": "4be26ce9-923b-4069-b6c9-76437d4be455///NDL-C-OFFICE-ROYALTY//056940c6-8d55-4190-8e85-57caa043cb1a",
           "corpro": "IPS-N",
