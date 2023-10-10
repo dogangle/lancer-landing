@@ -9,3 +9,4 @@ Over the course of several months, BONGDEM was subjected to intense genetic modi
 ## Trivia
 
 * Only capable of knowing three (3) words at a time
+* After repeated infractions, has arranged for amnesty from the HUC's public indecency laws
