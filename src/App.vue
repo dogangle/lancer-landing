@@ -94,9 +94,14 @@ export default {
       "events": "",
       "missions": [
         {
+          "slug": "002",
+          "name": "The Battle for Solo Terra",
+          "status": "start"
+        },
+        {
           "slug": "001",
           "name": "A New Dawn",
-          "status": "start"
+          "status": "success"
         },
         {
           "slug": "000",
