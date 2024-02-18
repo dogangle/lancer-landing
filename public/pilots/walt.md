@@ -9,3 +9,4 @@ Only bonds are family, but many of them are in the very military he serves in no
 ## Trivia
 
 * The helmet stays on
+* On average, is structured once per 6 missions
