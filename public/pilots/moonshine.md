@@ -7,3 +7,4 @@ Sludgewin is friendly with many of the traders on his home spacestation. During 
 ## Trivia
 
 * Has recently got his average turn time down to just 15 minutes
+* Averaging 1 wrecked Synecdoche per mission in Act Two
