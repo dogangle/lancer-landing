@@ -94,9 +94,14 @@ export default {
       "events": "",
       "missions": [
         {
+          "slug": "004",
+          "name": "Total War",
+          "status": "start"
+        },
+        {
           "slug": "003",
           "name": "Operation Calling Card",
-          "status": "start"
+          "status": "success"
         },
         {
           "slug": "002",
